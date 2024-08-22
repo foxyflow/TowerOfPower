@@ -1,2 +1,0 @@
-# To play TowerOfPower: Click Green code button; download zip; click on DirtboyPractise from your downloads; when message popsup, click extract all then click on DirtboyPractise.exe again after extracting. If Windows Defender message popsup click More Info 'run anyway' (as Windows doesn't recognise Unity Game Engine as Safe to this day!), The last step as always: Enjoy :)
-A Sega/Sokoban (Segaban) game. Collect Sega consoles to build the Tower of Power. Inspired by Wonderboy and Paganitzu.
